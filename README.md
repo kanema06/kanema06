@@ -23,7 +23,7 @@
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kanema06&show_icons=true&theme=radical)](https://github.com/kanema06)
 
-[![Estadísticas del lenguaje](https://github-readme-stats.vercel.app/api/top-langs/?username=kanema06&theme=radical&size_weight=0&count_weight)](https://github.com/anuraghazra/github-readme-stats) 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanema06&hide_title=false&layout=compact&card_width=320&langs&theme=radical&hide_border=false" height="150"/>
 
 [![](https://visitcount.itsvg.in/api?id=kanema06&icon=0&color=11)](https://visitcount.itsvg.in)
 </div>
