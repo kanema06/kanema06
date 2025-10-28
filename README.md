@@ -14,7 +14,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center">
   <img src="https://skillicons.dev/icons?i=github,vscode,godot,dotnet&perline=14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="48" height="48" style="border-radius: 12%; margin: 2px; background: #512BD4; padding: 4px" alt="Blazor" />
 </div>
 
 ## Github Stats
